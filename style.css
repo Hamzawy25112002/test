@@ -91,12 +91,13 @@ p {
 
 }
 @media screen and (min-width: 768px) {
+
   section {
     
     padding: 0 2em;
   }
   .column {
-    height: 60vh;
+    height: 65vh;
     flex: 0 50%;
     max-width: 50%;
   }
@@ -107,7 +108,7 @@ p {
     padding: 1em 3em;
   }
   .column {
-    height: 60vh;
+    height: 65vh;
     flex: 0 0 33.33%;
     max-width: 33.33%;
   }
