@@ -96,7 +96,7 @@ p {
     padding: 0 2em;
   }
   .column {
-    height: 40vh;
+    height: 60vh;
     flex: 0 50%;
     max-width: 50%;
   }
@@ -107,7 +107,7 @@ p {
     padding: 1em 3em;
   }
   .column {
-    height: 40vh;
+    height: 60vh;
     flex: 0 0 33.33%;
     max-width: 33.33%;
   }
