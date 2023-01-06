@@ -99,7 +99,7 @@ p {
     padding: 0 2em;
   }
   .column {
-    height: 100vh;
+    height: 110vh;
     flex: 0 50%;
     max-width: 50%;
   }
