@@ -113,7 +113,7 @@ p {
   }
   .column {
     
-    height: 120vh;
+    height: 75vh;
     flex: 0 0 33.33%;
     max-width: 33.33%;
   }
